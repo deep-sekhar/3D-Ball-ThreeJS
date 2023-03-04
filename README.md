@@ -9,27 +9,20 @@
 </div>
 
 ## Live Project 
-View the project 🎉
-* [Netlify]()
+View the project 
+* [On Netlify](https://3dballanimation.netlify.app/)
 
 
 ## Built With
 * Vite
-* Three.JS (Javascript)
+* Three.JS 
 * GSAP 
-* CSS3/HTML5
-* NPM
-  
 
 <!-- USAGE EXAMPLES -->
-## Practiced Concepts
+## New Concepts learnt
 -  Javascript 3D art library usage
--  Automatic and user-controlled animations
--  Responsive web design
--  App deployment using Github Pages
--  Github version control
-
-
+-  GSAP library
+-  Vite
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
