@@ -12,6 +12,8 @@
 View the project 
 * [On Netlify](https://3dballanimation.netlify.app/)
 
+## Want to support?
+[![Buy a coffee for me](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q6IJES8)
 
 ## Built With
 * Vite
